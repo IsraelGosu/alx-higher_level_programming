@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 def add(a, b):
-    """the addition function to use
+    """My addition function to use
 
     Args:
-        a: the first integer
-        b: the second integer
+        a: first integer
+        b: second integer
 
     Returns:
         The return value. a + b
@@ -13,11 +13,11 @@ def add(a, b):
 
 
 def sub(a, b):
-    """the subtraction function to use
+    """My subtraction function to use
 
     Args:
-        a: the first integer
-        b: the second integer
+        a: first integer
+        b: second integer
 
     Returns:
         The return value. a - b
@@ -26,11 +26,11 @@ def sub(a, b):
 
 
 def mul(a, b):
-    """the multiplication function to use
+    """My multiplication function to use
 
     Args:
-        a: the first integer
-        b: the second integer
+        a: first integer
+        b: second integer
 
     Returns:
         The return value. a * b
@@ -39,11 +39,11 @@ def mul(a, b):
 
 
 def div(a, b):
-    """the division function to use
+    """My division function to use
 
     Args:
-        a: the first integer
-        b: the second integer
+        a: first integer
+        b: second integer
 
     Returns:
         The return value. a / b
